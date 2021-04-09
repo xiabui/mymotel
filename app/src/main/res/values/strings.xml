@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMotel</string>
+    <string-array name="action_name">
+        <item>Thông tin</item>
+        <item>Thu tiền</item>
+        <item>Công nợ</item>
+        <item>Báo cáo</item>
+        <item>Dịch vụ</item>
+        <item>Cài đặt</item>
+    </string-array>
+    <string-array name="image_name">
+        <item>information</item>
+        <item>payment</item>
+        <item>name</item>
+        <item>report</item>
+        <item>services</item>
+        <item>settings</item>
+    </string-array>
+</resources>
